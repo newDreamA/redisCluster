@@ -1,0 +1,6 @@
+rootProject.name = 'springMVC'
+include 'site'
+include 'service'
+include 'common'
+include 'dao'
+
